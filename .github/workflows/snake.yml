@@ -20,13 +20,13 @@ jobs:
       - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
-          args: |
-            --github_user_name ${{ github.repository_owner }}
-            --output ./dist/github-snake.svg
-            --output ./dist/github-snake-dark.svg
-            --output ./dist/github-snake.gif
-            --palette github-light
-            --use_degree
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./dist/github-snake.svg
+            ./dist/github-snake-dark.svg
+            ./dist/github-snake.gif
+          palette: github-light
+          use_degree: "true"
 
       - name: Publish to output branch
         run: |
