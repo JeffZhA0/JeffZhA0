@@ -18,25 +18,25 @@
   "---....--'    `----'    `----'    `----'  `---'          '---'                          `---`      
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7c3aed,100:06b6d4&height=220&section=header&text=Welcome%20to%20the%20Void&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Where%20elegance%20meets%20emptiness&descSize=22&descColor=ffffff&descAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:2563eb,100:06b6d4&height=220&section=header&text=Welcome%20to%20the%20Void&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Where%20elegance%20meets%20emptiness&descSize=22&descColor=ffffff&descAlignY=65" />
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+nothing%2C+beautifully.;Crafting+absolutely+zero+features.;Shipping+pure+aesthetic+vibes.;Committing+directly+to+main." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+nothing%2C+beautifully.;Crafting+absolutely+zero+features.;Shipping+pure+aesthetic+vibes.;Committing+directly+to+main." alt="Typing SVG" />
 </p>
 
 <br/>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Status-Under%20Construction-yellow?style=for-the-badge&logo=construction&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Version-0.0.0--α-blueviolet?style=for-the-badge&logo=semver&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Version-0.0.0--α-dodgerblue?style=for-the-badge&logo=semver&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=open-source-initiative&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Maintained-Yes-ff69b4?style=for-the-badge&logo=heart&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JeffZhA0&style=for-the-badge&color=7c3aed" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JeffZhA0&style=for-the-badge&color=2563eb" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/JeffZhA0/JeffZhA0?style=for-the-badge&color=fbbf24&logo=star" alt="Stars" />
   <img src="https://img.shields.io/github/forks/JeffZhA0/JeffZhA0?style=for-the-badge&color=06b6d4&logo=git" alt="Forks" />
   <img src="https://img.shields.io/github/followers/JeffZhA0?style=for-the-badge&color=ec4899&logo=github" alt="Followers" />
@@ -365,7 +365,7 @@ copies of the Software...
   ✵   ·   ˚  ✧   ·   ✦  ˚   ·  ✧  ·   ⋆   ˚
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:06b6d4,100:7c3aed&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:06b6d4,100:2563eb&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=35" />
 
 <sub>用 ❤️ 和一点点虚无 精心打造</sub>
 
