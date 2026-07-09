@@ -357,8 +357,6 @@ copies of the Software...
   <img alt="github-snake" src="https://raw.githubusercontent.com/JeffZhA0/JeffZhA0/output/github-snake.svg" />
 </picture>
 
-<sub>💡 工作流首次跑完(最多 1 分钟)后,这条蛇就会出现</sub>
-
 ---
 
 ```
