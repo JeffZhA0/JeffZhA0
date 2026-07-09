@@ -1,0 +1,41 @@
+name: Generate Snake Animation
+
+on:
+  # 每天 UTC 00:00 自动跑一次(贡献图每日更新)
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许从 Actions 页面手动触发,方便测试
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVGs
+        uses: Platane/snk@v3
+        with:
+          args: |
+            --github_user_name ${{ github.repository_owner }}
+            --output ./dist/github-snake.svg
+            --output ./dist/github-snake-dark.svg
+            --output ./dist/github-snake.gif
+            --palette github-light
+            --use_degree
+
+      - name: Publish to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf .
+          mkdir -p docs
+          cp -r dist/* docs/
+          git add docs
+          git commit -m "🐍 Update snake animation" --allow-empty
+          git push origin HEAD:output --force

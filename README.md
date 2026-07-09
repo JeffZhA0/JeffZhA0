@@ -352,10 +352,12 @@ copies of the Software...
 ### 🐍 看看贡献者们在干什么
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffZhA0/JeffZhA0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffZhA0/JeffZhA0/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JeffZhA0/JeffZhA0/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeffZhA0/JeffZhA0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeffZhA0/JeffZhA0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JeffZhA0/JeffZhA0/output/github-snake.svg" />
 </picture>
+
+<sub>💡 工作流首次跑完(最多 1 分钟)后,这条蛇就会出现</sub>
 
 ---
 
@@ -365,7 +367,7 @@ copies of the Software...
   ✵   ·   ˚  ✧   ·   ✦  ˚   ·  ✧  ·   ⋆   ˚
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:06b6d4,100:2563eb&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:06b6d4&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=ffffff&fontAlignY=35" />
 
 <sub>用 ❤️ 和一点点虚无 精心打造</sub>
 
